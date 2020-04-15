@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Exo:100,100i,400,400i,500,500i,600,600i,700,700i|Lato&display=swap");
+a {
+  color: #3273DC;
+  transition: color 200ms;
+}
+a:hover {
+  color: #194690;
+}
+
+.has-background-black {
+  background-color: #0a0a0a;
+}
+
+.has-background-white {
+  background-color: white;
+}
+
+.has-background-light {
+  background-color: whitesmoke;
+}
+
+.has-background-dark {
+  background-color: #282828;
+}
+
+.has-background-primary {
+  background-color: #ff6d6d;
+}
+
+.has-background-link {
+  background-color: #3273DC;
+}
+
+.has-text-black {
+  color: #0a0a0a;
+}
+
+.has-text-white {
+  color: white;
+}
+
+.has-text-light {
+  color: whitesmoke;
+}
+
+.has-text-dark {
+  color: #282828;
+}
+
+.has-text-primary {
+  color: #ff6d6d;
+}
+
+.has-text-link {
+  color: #3273DC;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=fundum.css.map */
